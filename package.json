@@ -1,0 +1,21 @@
+{
+  "name": "3bodycalc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run3BodyCalc.js",
+  "bin": {
+    "run3BodyCalc": "run3BodyCalc.js"
+  },
+  "scripts": {
+    "test": "node run3BodyCalc.js"
+  },
+  "keywords": [
+    "3Body",
+    "ThreeBody"
+  ],
+  "author": "Microanswer",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
