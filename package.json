@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "",
   "main": "run3BodyCalc.js",
+  "repository": {
+    "url": "https://github.com/MicroAnswer/3BodyCalc"
+  },
+  "homepage": "https://github.com/MicroAnswer/3BodyCalc",
   "bin": {
     "run3BodyCalc": "run3BodyCalc.js"
   },

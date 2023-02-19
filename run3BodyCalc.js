@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
 const ThreeBodyCalc = require("./src/3BodyCalc");
-let calcer = new ThreeBodyCalc();
+let tbc = new ThreeBodyCalc();
 
-calcer.startCalc().then(() => {
+tbc.startCalc().then(() => {
     // success. do nothing.
 }).catch(err => {
     console.error("calc err", err);
